@@ -1,10 +1,10 @@
 [
     {
-        "property": "theme.glance-control-alignment.position",
+        "property": "theme.glancecontrol.position",
         "label": "Position",
         "type": "dropdown",
         "disabledOn": [],
-        "placeholder": "Left",
+        "placeholder": "Left (Default)",
         "defaultValue": "left",
         "options": [
             {

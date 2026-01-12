@@ -1,11 +1,20 @@
 /* Left (Default) */
-body:has(#theme_glance-control-alignment[theme_glance-control-alignment_position='left']) {
-	left: unset !important;
-	right: 100% !important;
+
+.zen-glance-sidebar-container {
+	outline: 2px solid red !important;
+}
+
+:root:has(#theme-glancecontrol[theme-glancecontrol-position="left"]) {
+	.zen-glance-sidebar-container {
+		left: unset !important;
+		right: 100% !important;
+	}
 }
 
 /* Right */
-body:has(#theme_glance-control-alignment[theme_glance-control-alignment_position='right']) {
-	left: 100% !important;
-	right: unset !important;
+:root:has(#theme-glancecontrol[theme-glancecontrol-position="right"]) {
+	.zen-glance-sidebar-container {
+		left: 100% !important;
+		right: unset !important;
+	}
 }
