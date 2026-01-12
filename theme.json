@@ -6,6 +6,7 @@
 	"style": "https://raw.githubusercontent.com/riverattic/glance-control-alignment/refs/heads/main/chrome.css",
 	"readme": "https://raw.githubusercontent.com/riverattic/glance-control-alignment/refs/heads/main/README.md",
 	"image": "https://raw.githubusercontent.com/riverattic/glance-control-alignment/refs/heads/main/image.png",
+	"preferences": "https://raw.githubusercontent.com/riverattic/glance-control-alignment/refs/heads/main/preferences.json",
 	"author": "RiverAttic",
 	"version": "1.0.0",
 	"tags": [],
