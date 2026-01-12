@@ -1,0 +1,22 @@
+{
+	"id": "glance-control-alignment",
+	"name": "Glance control alignment",
+	"description": "Align the glance controls on the left or right of the glance window.",
+	"homepage": "https://github.com/Anoms12/Animations-plus",
+	"style": "https://raw.githubusercontent.com/Anoms12/Animations-plus/main/userChrome.css",
+	"readme": "https://raw.githubusercontent.com/Anoms12/Animations-plus/main/README.md",
+	"image": "https://raw.githubusercontent.com/Anoms12/Animations-plus/main/image.png",
+	"author": "Anoms12",
+	"version": "1.2.2",
+	"tags": [
+		"sine",
+		"Animations",
+		"Anoms12"
+	],
+	"createdAt": "2025-05-20",
+	"updatedAt": "2025-06-13",
+	"fork": [
+		"zen",
+		"floorp"
+	]
+}

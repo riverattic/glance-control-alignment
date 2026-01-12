@@ -1,0 +1,11 @@
+/* Left (Default) */
+body:has(#theme_glance-control-alignment[theme_glance-control-alignment_position='left']) {
+	left: unset !important;
+	right: 100% !important;
+}
+
+/* Right */
+body:has(#theme_glance-control-alignment[theme_glance-control-alignment_position='right']) {
+	left: 100% !important;
+	right: unset !important;
+}
